@@ -143,7 +143,7 @@ This suggests potential for targeted seasonal strategies
 - 64,398 units sold exclusively through internet channel
 - Represents a significant digital presence
 
-#Recommendation Supported by Data
+# Recommendation Supported by Data
 1. **Price Optimization Strategy**
    - **Data**: The 23.9% price reduction led to a 99.2% increase in units sold and 51.5% revenue growth
    - **Recommendation**: 
