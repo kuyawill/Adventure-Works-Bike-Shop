@@ -44,8 +44,9 @@ Country-specific profit margins to identify where margins are higher or lower.
 
 ## 1. Explosive Growth with Price Strategy Shift
 - **Remarkable Growth**: 2020 saw a 51.5% revenue increase and 99.2% surge in units sold
-- **Strategic Price Reduction**: 
-  - Average price dropped 23.9% from previous year ($408 to $310)
+- **Strategic Price Reduction**:
+  - Average price dropped from 2018-2019 is 58% ($980 to 408)
+  - Average price dropped 23.9% from 2019-2020 ($408 to $310)
   - This price reduction strategy proved highly effective:
     - Lowest quarter in 2020 ($12M) exceeded 2019's peak ($10M)
     - First quarter 2020 hit record $14M revenue
