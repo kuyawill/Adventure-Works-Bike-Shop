@@ -1,4 +1,5 @@
 
+
 # Adventure Works Bike Shop
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMWY2ODYxODktZTM2OC00YzZiLTg2YTEtMzMzNmE2NDI3ODQzIiwidCI6IjUwMzZkODQ1LWEzMTQtNDBhMi04YWQzLTM3YTlmMjUwMTQ2OSIsImMiOjEwfQ%3D%3D
@@ -8,36 +9,58 @@
 ![Problem](https://github.com/user-attachments/assets/8d316019-7434-44b6-9808-b6f1fc13bac5)
 
 
-### Steps followed 
+# Power BI Data Analysis Project
 
-- Step 1 : Load data into Power BI Desktop, dataset is a csv file.
-- Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
-- Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
-- Step 4 : Clean rows with null values and duplicates.
-- Step 5 : Create data model for data sets. ![Data model](https://github.com/user-attachments/assets/9f3f88a6-4f4a-4a64-bb21-c8ea0045ca17) 
-- Step 6 : Create measures for all kpi needed.
-- Step 7 : Layout for visual and notes the metrics needed.
-- Step 8 : Answering the objective/action  of the data "analyze the data to discover pattern and trends".
+## Overview
+This project demonstrates the process of importing, cleaning, transforming, modeling, and visualizing data using Power BI Desktop. The objective is to create a comprehensive and interactive data model to derive insights and key metrics from the provided datasets.
+
+## Table of Contents
+- [About the Project](#about-the-project)
+- [Actions](#actions)
+- [Tools & Technologies](#tools--technologies)
+- [Project Goals](#project-goals)
+- [License](#license)
+
+## About the Project
+The project leverages Power BI Desktop to work with datasets in CSV format. The aim is to build a comprehensive data model that provides actionable insights through clean data, efficient relationships, and accurate calculations.
+
+## Actions
+
+### 1. Utilize Power BI Desktop
+- **Import Datasets**: Load CSV files into Power BI.
+- **Data Transformation**: Use Power Query to clean, transform, and integrate data.
+- **Build Relationships**: Establish connections between tables within the data model.
+- **DAX Calculations**: Use DAX (Data Analysis Expressions) to create necessary calculations and visualizations.
+
+### 2. Prepare the Data
+- **Clean and Standardize**: Ensure data consistency and prepare it for analysis.
+- **Remove Duplicates**: Use Power Query to identify and remove duplicate entries.
+- **Modify Table Names**: Prefix table names with 'd' for dimension tables and 'f' for fact tables (e.g., `dCustomer` and `fSales_Data`).
+- **Create New Dimensions and Measures**: Generate additional dimensions and measures as needed for the analysis.
+
+### 3. Model the Data
+- **Design Data Model**: Create a suitable structure for the data to support comprehensive analysis.
+- **Establish Relationships**: Define connections between entities (tables).
+- **Create Hierarchies and Dimensions**: Organize data for easy drill-down and analysis.
+
+### 4. Necessary Calculations
+- **Perform Exploratory Data Analysis (EDA)**: Examine data distribution, quality, and consistency.
+- **Data Quality Checks**: Verify correct data types for each column and analyze value distribution for accuracy.
+  
+#### Key Metrics Calculations
+The following DAX calculations were used to derive key metrics:
+
+- **2020 Revenue**: Analyze performance in FY2020.
+  ```DAX
+  2020 Revenue = 
+  CALCULATE(
+      SUM(fSales_Data[Sales Amount]),
+      dDate[Fiscal Year] = "FY2020"
+  )
 
 
--YEAR-
-Compare revenue growth rates across different year.
-ASP per year to monitor price trends.
-Volume trends over time.
-Total profit by year to assess financial performance
-Profit margin per year to understand overall profitability.
 
--BUSINESSS TYPE & CATEGORY-
-Compare revenue across different product categories
-Number of units sold within each category and business type
-Profit margins across different and business types.
-ASP across different categories and business types.
 
--COUNTRY-
-Analyze revenue by country to identify top-performing regions.
-ASP comparison by country to understand pricing strategies.
-Profit contribution by country.
-Country-specific profit margins to identify where margins are higher or lower.
 
 
 # Insights Overview
@@ -176,11 +199,7 @@ This suggests potential for targeted seasonal strategies
      - Focus on operational efficiency to improve margins without raising prices
 
 
-![image](https://github.com/user-attachments/assets/a539cc21-2ae0-445e-9ba8-aa9c17f68a16)
 
-![image](https://github.com/user-attachments/assets/3aa02f7a-6905-433b-99d0-73a32f123258)
-
-![image](https://github.com/user-attachments/assets/aa9f1558-30d9-4625-b663-31ace1c22f2a)
 
 
 
