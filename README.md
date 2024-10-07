@@ -2,7 +2,8 @@
 
 # Adventure Works Bike Shop
 
-https://app.powerbi.com/view?r=eyJrIjoiNGFiNGI2MWYtZDJlZi00MzgyLWEwZWEtMTZkZjhhM2IzZTU2IiwidCI6IjUwMzZkODQ1LWEzMTQtNDBhMi04YWQzLTM3YTlmMjUwMTQ2OSIsImMiOjEwfQ%3D%3D
+![Untitled design](https://github.com/user-attachments/assets/6c9e5932-cce1-4218-943c-64ac13e0978b)
+Click this: https://app.powerbi.com/view?r=eyJrIjoiNGFiNGI2MWYtZDJlZi00MzgyLWEwZWEtMTZkZjhhM2IzZTU2IiwidCI6IjUwMzZkODQ1LWEzMTQtNDBhMi04YWQzLTM3YTlmMjUwMTQ2OSIsImMiOjEwfQ%3D%3D 
 
 ## Problem Statement
 
