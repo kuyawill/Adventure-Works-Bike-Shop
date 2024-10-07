@@ -42,37 +42,77 @@ Country-specific profit margins to identify where margins are higher or lower.
 
 # Insights
 
-The total revenue generated is $109.8 million.
-The year 2020 contributed the highest revenue, accounting for $52 million.
-Revenue has shown consistent growth year over year.
+## 1. Explosive Growth with Price Strategy Shift
+- **Remarkable Growth**: 2020 saw a 51.5% revenue increase and 99.2% surge in units sold
+- **Strategic Price Reduction**: 
+  - Average price dropped 23.9% from previous year ($408 to $310)
+  - This price reduction strategy proved highly effective:
+    - Lowest quarter in 2020 ($12M) exceeded 2019's peak ($10M)
+    - First quarter 2020 hit record $14M revenue
 
-The average price of the product is $399.60.
-A lower average price seems to drive higher revenue. For instance, in 2020, the average price dropped to $310.50, resulting in increased revenue.
-From 2018 to 2020, the average price in Canada and the US remained below $900, making them the top countries in revenue.
+### Price Elasticity Impact
+- Clear inverse relationship between price and volume:
+  - 2018: High prices (~$980) = Lower volume
+  - 2020: Reduced prices (~$310) = Significantly higher volume
+- This suggests high price elasticity in the market
 
-A total of 274.8k units were sold, with 2020 contributing 60.81% of all orders.
+## 2. Profitability Dynamics
+- **Overall Performance**: $65.8M total profit, 60% average margin
+- **Efficiency vs. Volume Trade-off**:
+  - 2019: Highest margins (65.3%) but lower volume
+  - 2020: Lower margins (58.8%) but much higher volume and total profit
+- **Business Model Efficiency**:
+  1. Warehouses: Best performer (71% margin, $28M profit)
+  2. Value Added Resellers: Strong second (65.1% margin, $23M profit)
+  3. Specialty Bike Shops: Struggling (51.3% margin, only $3M profit)
 
-Total profit generated is $65.8 million, with an overall profit margin of 60%.
-Profit has grown consistently from 2018 to 2020. However, 2019 saw the highest profit margin at 65.3%..
+## 3. Product Category Analysis
+### The Bikes Paradox
+- Dominate total profit ($56M, 84.71% of total)
+- Lowest margin category (58.9%)
+- Highest average price (>$1,000 in 2018, declining thereafter)
 
-Bikes lead in order volume with significant sales driven by:
-  Value-added resellers: 35k orders.
-  Warehouses: 33k orders.
-  Specialty bike shops: 7k orders.
-Warehouses lead in order volume across clothing, components, and accessories, and narrowly missed the top spot in bikes by 2k orders.
-Warehouses also boast the highest profit margin among all business types.
+### Hidden Gems
+- Clothing: Highest margin at 76.5%
+- Accessories: Second-highest margin at 73.8%
+These categories contribute less to total profit but are highly efficient
 
-Bikes lead with the highest average price.
-February, May, August, and November (2nd, 5th, 8th, 11th) are the peak months for revenue growth.
-All countries share a similar trendline with slight variations.
-Australia currently has a high average price of $582.50, exceeding the overall average price of $399.60. The United States also exceeds the average price, with $408.80.
-The United States is the biggest contributor to revenue, with $63 million from 2018 to 2019, and $26 million in 2020, totaling $89 million.
-Canada, the US, and France achieved profit margins of 60% or higher.
+## 4. Geographical Insights
+### United States Dominance
+- 57.37% of revenue ($63M)
+- 154K units sold
+- Balanced strategy: moderate price ($408.8) with high volume
 
-The best-selling colors are black and yellow.
-Mountain 200 Black, 38: $4,400,593.50 in revenue.
-Mountain 200 Black, 42: $4,009,495.60 in revenue.
-Mountain 200 Silver, 38: $3,693,678.10 in revenue
+### Market-Specific Strategies
+1. **Australia**: Premium Market
+   - Highest average price ($582.5)
+   - Lower volume (18K units)
+   - Opportunity for margin improvement
+
+2. **Canada**: Volume Play
+   - Second-highest volume (49K units)
+   - Lower average price ($331.2)
+   - Strong margins suggest room for growth
+
+3. **European Markets**: Untapped Potential
+   - UK, France, Germany all under 20K units
+   - Lower prices and revenues
+   - Clear growth opportunity
+
+## 5. Seasonal Patterns
+Consistent peak sales in:
+- May
+- August
+- November
+
+This suggests potential for targeted seasonal strategies
+
+## 6. Internet Sales Significance
+"Not Applicable" business type:
+- $29.36M in sales
+- 64,398 units sold exclusively through internet channel
+- Represents a significant digital presence
+
 
 # Report
 
