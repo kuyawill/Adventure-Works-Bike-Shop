@@ -113,34 +113,67 @@ This suggests potential for targeted seasonal strategies
 - 64,398 units sold exclusively through internet channel
 - Represents a significant digital presence
 
+#Recommendation Supported by Data
+1. **Price Optimization Strategy**
+   - **Data**: The 23.9% price reduction led to a 99.2% increase in units sold and 51.5% revenue growth
+   - **Recommendation**: 
+     - Fine-tune pricing by market: Each region shows different price sensitivity
+     - Consider targeted price reductions in European markets to stimulate growth, as these markets currently show lower penetration
+     - Maintain premium pricing in Australia while exploring volume growth opportunities
 
-# Report
+2. **Category Balance Optimization**
+   - **Data**: 
+     - Bikes generate 84.71% of profit but have the lowest margin (58.9%)
+     - Clothing and accessories have margins over 70% but contribute minimally to total profit
+   - **Recommendation**:
+     - Develop bundling strategies: Pair high-margin accessories/clothing with bike purchases
+     - Create premium bike lines to improve category margins while maintaining volume
+     - Focus marketing on high-margin categories during non-peak bike sales periods
 
-## Revenue and Growth Analysis
-The company has demonstrated strong revenue performance with a total of $109.8 million generated. The year 2020 stands out as the most successful, contributing $52 million. This period saw consistent revenue growth.
-##Impact of Pricing on Revenue
-The average product price is $399.60. Interestingly, a lower average price correlates with higher revenue, as seen in 2020 when the price dropped to $310.50, leading to increased sales. This suggests that the market is price-sensitive, where reducing prices can drive higher demand. From 2018 to 2020, both Canada and the US maintained an average price below $900, making them the top revenue-generating regions. 
+3. **Geographical Expansion Strategy**
+   - **Data**:
+     - U.S. dominates with 57.37% of revenue and 154K units
+     - European markets each sell less than 20K units despite developed economies
+     - Canada succeeds with a volume strategy (49K units, lower prices)
+   - **Recommendation**:
+     - Replicate U.S. success factors in European markets
+     - Adapt Canada's volume strategy for similar markets
+     - Maintain premium positioning in Australia while seeking efficiency improvements
 
-## Units Sold and Market Demand
-The company sold a total of 274.8k units, with 2020 being the peak year, accounting for 60.81% of all orders. This spike in demand highlights the company’s ability to capitalize on market trends.
+4. **Seasonal Optimization**
+   - **Data**: Consistent sales peaks in May, August, and November across years
+   - **Recommendation**:
+     - Align inventory management with seasonal patterns
+     - Develop marketing campaigns for off-peak months
+     - Consider region-specific seasonal strategies, as patterns may vary by market
 
-## Profit and Margin Performance
-The company generated a profit of $65.8 million, with an impressive overall profit margin of 60%. Profit growth has been consistent year over year, with 2019 recording the highest margin at 65.3%. This shows strong operational efficiency and cost management.
+5. **Digital Channel Enhancement**
+   - **Data**: 
+     - "Not Applicable" business type (internet sales) generated $29.36M with 64,398 units
+     - This channel operates at 41.1% margin, lower than other business types
+   - **Recommendation**:
+     - Improve digital channel efficiency to boost margins
+     - Expand e-commerce in markets with low physical presence
+     - Develop strategies to complement existing business types
 
-## Product Performance and Key Drivers of Revenue
-The top revenue-generating products are the Mountain 200 Black, 38, Mountain 200 Black, 42, and Mountain 200 Silver, 38, each contributing between $3.7 million and $4.4 million in revenue. The success of these models suggests a strong brand reputation and alignment with customer preferences.
+6. **Business Type Optimization** 
+   - **Data**: 
+     - Warehouse (71% margin) and Value Added Reseller (65.1% margin) significantly outperform Specialty Bike Shops (51.3% margin)
+     - Specialty Bike Shops contribute only $3M in profit
+   - **Recommendation**:
+     - Evaluate and potentially restructure the Specialty Bike Shop model
+     - Consider converting underperforming Specialty Bike Shops to the Warehouse or Value Added Reseller model
+     - Develop specific support and improvement programs for Specialty Bike Shops
 
-## Sales Channels and Order Volume
-Bikes dominate order volumes, driven primarily by value-added resellers (35k orders), warehouses (33k orders), and specialty bike shops (7k orders). Warehouses also excel across multiple product categories, including clothing, components, and accessories. High order volume and profit margin performance suggest the warehouse is a key sale channel.
+7. **Profit Margin Management** 
+   - **Data**: 
+     - Overall profit margin decreased from 65.3% in 2019 to 58.8% in 2020
+     - This was offset by volume increases, but represents a potential area for improvement
+   - **Recommendation**:
+     - Identify and replicate high-margin success factors from 2019
+     - Develop strategies to gradually increase margins while maintaining volume
+     - Focus on operational efficiency to improve margins without raising prices
 
-## Market and Pricing Strategy
-Bikes continue to lead in both average price and sales volume, positioning them as the flagship product category. Seasonal peaks in February, May, August, and November indicate key selling periods. Australia has a much higher average price of $582.50, yet it does not rank among the top revenue-generating countries. This indicates that simply maintaining higher prices isn’t enough to guarantee higher revenue.
-
-## Regional Revenue Contribution
-The United States remains the dominant market, contributing $63 million from 2018 to 2019 and $26 million in 2020, totaling $89 million. The sustained high performance in the US underscores its importance as the core revenue driver. Additionally, Canada, the US, and France have consistently maintained profit margins of 60% or higher, demonstrating their profitability as key markets.
-
-## Customer Preferences and Trends
-Color trends reveal that black and yellow are the top-selling options. Understanding these preferences allows for better inventory planning and targeted marketing efforts, ensuring the availability of popular colors.The top revenue-generating products are the Mountain 200 Black, 38, Mountain 200 Black, 42, and Mountain 200 Silver, 38, each contributing between $3.7 million and $4.4 million in revenue. The success of these models suggests a strong brand reputation and alignment with customer preferences.
 
 ![image](https://github.com/user-attachments/assets/a539cc21-2ae0-445e-9ba8-aa9c17f68a16)
 
