@@ -40,7 +40,7 @@ Profit contribution by country.
 Country-specific profit margins to identify where margins are higher or lower.
 
 
-# Insights
+# Insights Overview
 
 ## 1. Explosive Growth with Price Strategy Shift
 - **Remarkable Growth**: 2020 saw a 51.5% revenue increase and 99.2% surge in units sold
