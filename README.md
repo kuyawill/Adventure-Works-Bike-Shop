@@ -2,7 +2,7 @@
 
 # Adventure Works Bike Shop
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMWY2ODYxODktZTM2OC00YzZiLTg2YTEtMzMzNmE2NDI3ODQzIiwidCI6IjUwMzZkODQ1LWEzMTQtNDBhMi04YWQzLTM3YTlmMjUwMTQ2OSIsImMiOjEwfQ%3D%3D
+https://app.powerbi.com/view?r=eyJrIjoiNGFiNGI2MWYtZDJlZi00MzgyLWEwZWEtMTZkZjhhM2IzZTU2IiwidCI6IjUwMzZkODQ1LWEzMTQtNDBhMi04YWQzLTM3YTlmMjUwMTQ2OSIsImMiOjEwfQ%3D%3D
 
 ## Problem Statement
 
@@ -10,16 +10,6 @@
 
 
 # Power BI Data Analysis Project
-
-## Overview
-This project demonstrates the process of importing, cleaning, transforming, modeling, and visualizing data using Power BI Desktop. The objective is to create a comprehensive and interactive data model to derive insights and key metrics from the provided datasets.
-
-## Table of Contents
-- [About the Project](#about-the-project)
-- [Actions](#actions)
-- [Tools & Technologies](#tools--technologies)
-- [Project Goals](#project-goals)
-- [License](#license)
 
 ## About the Project
 The project leverages Power BI Desktop to work with datasets in CSV format. The aim is to build a comprehensive data model that provides actionable insights through clean data, efficient relationships, and accurate calculations.
@@ -49,8 +39,6 @@ The project leverages Power BI Desktop to work with datasets in CSV format. The 
   
 #### Key Metrics Calculations
 The following DAX calculations were used to derive key metrics:
-
-- **2020 Revenue**: Analyze performance in FY2020.
   ```DAX
   
   Avg. Price =
@@ -79,7 +67,7 @@ The following DAX calculations were used to derive key metrics:
       fSales_Data[Order Quantity]
   )
 
-  
+```
 # Insights Overview
 
 ## 1. Explosive Growth with Price Strategy Shift
