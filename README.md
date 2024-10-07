@@ -52,17 +52,34 @@ The following DAX calculations were used to derive key metrics:
 
 - **2020 Revenue**: Analyze performance in FY2020.
   ```DAX
-  2020 Revenue = 
-  CALCULATE(
-      SUM(fSales_Data[Sales Amount]),
-      dDate[Fiscal Year] = "FY2020"
+  
+  Avg. Price =
+  DIVIDE(
+      [Revenue], [Units Sold]
+  )
+  
+  Profit = 
+  [Revenue] - SUM(fSales_Data[Product Standard Cost])
+
+  Profit = 
+  [Revenue] - SUM(fSales_Data[Product Standard Cost])
+
+  Profit Margin =
+  DIVIDE(
+      [Profit], [Revenue], ""
+  )
+  
+  Revenue =
+  SUM(
+      fSales_Data[Sales Amount]
   )
 
+  Units Sold =
+  SUM(
+      fSales_Data[Order Quantity]
+  )
 
-
-
-
-
+  
 # Insights Overview
 
 ## 1. Explosive Growth with Price Strategy Shift
